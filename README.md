@@ -7,13 +7,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceesiyman&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceesiyman&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceesiyman&theme=tokyonight" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceesiyman&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
 
-- 🌱 I’m currently learning **Flutter** and **Laravel**
+### 📅 2025 Contribution Activity
+[![Ashraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ceesiyman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+- 🌱 I'm currently learning **Flutter** and **Laravel**
 - 📫 How to reach me: [ashrafbakariissa@gmail.com](mailto:ashrafbakariissa@gmail.com)
 
 ---
