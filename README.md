@@ -19,7 +19,6 @@
 
 ---
 
-- 🌱 I'm currently learning **Flutter** and **Laravel**
 - 📫 How to reach me: [ashrafbakariissa@gmail.com](mailto:ashrafbakariissa@gmail.com)
 
 ---
