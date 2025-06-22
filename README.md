@@ -1,47 +1,55 @@
-# Hi, I'm Ashraf Issa 👋
+<h1 align="center">Hi 👋, I'm Ashraf Issa</h1>
 
-### Fullstack Developer
+<h3 align="center">A Passionate Fullstack Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer;Laravel+%7C+Flutter+%7C+React+%7C+Next.js;Building+secure+and+scalable+apps" alt="Typing SVG" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ceesiyman&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceesiyman&theme=tokyonight" alt="GitHub Streak" />
+- 🔭 I’m currently working on **Ocean**, a complete e-business platform  
+- 🌱 Currently learning **AI Integration in Mobile Apps**  
+- 💬 Ask me about: `Flutter`, `Laravel`, `React`, `Next.js`, `API Security`  
+- 📫 Reach me at: [ashrafbakariissa@gmail.com](mailto:ashrafbakariissa@gmail.com)
+
+---
+
+### 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,react,nextjs,js,ts,html,css,bootstrap,java,mysql,firebase" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ceesiyman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false" alt="ceesiyman GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceesiyman&theme=tokyonight" alt="ceesiyman GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceesiyman&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+</p>
 
 ---
 
-### 📅 2025 Contribution Activity
-[![Ashraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ceesiyman&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🌍 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceesiyman&theme=tokyo-night&area=true&hide_border=true" alt="Ashraf's Activity Graph" />
+</p>
 
 ---
 
-- 📫 How to reach me: [ashrafbakariissa@gmail.com](mailto:ashrafbakariissa@gmail.com)
+### 🔗 Connect with Me
 
----
-
-### 🤝 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashrafissa)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/iyman_ashraf)
-
----
-
-### 🛠️ Languages and Tools:
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40"/>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashrafissa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/iyman_ashraf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
+  </a>
+</p>
