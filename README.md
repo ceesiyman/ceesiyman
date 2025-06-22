@@ -1,42 +1,55 @@
 <h1 align="center">Hi 👋, I'm Ashraf Issa</h1>
-<h3 align="center">🚀 Fullstack Web & Mobile Developer</h3>
+
+<h3 align="center">A Passionate Fullstack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Laravel+%7C+Flutter+%7C+React+%7C+Next.js;Building+Secure+and+Scalable+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer;Laravel+%7C+Flutter+%7C+React+%7C+Next.js;Building+secure+and+scalable+apps" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📈 Real-time GitHub Stats
+### 🧠 About Me
+
+- 🔭 I’m currently working on **Ocean**, a complete e-business platform  
+- 🌱 Currently learning **AI Integration in Mobile Apps**  
+- 💬 Ask me about: `Flutter`, `Laravel`, `React`, `Next.js`, `API Security`  
+- 📫 Reach me at: [ashrafbakariissa@gmail.com](mailto:ashrafbakariissa@gmail.com)
+
+---
+
+### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshrafIssa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshrafIssa&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrafIssa&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,react,nextjs,js,ts,html,css,bootstrap,java,mysql,firebase" />
 </p>
 
 ---
 
-### 📊 Contribution Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshrafIssa&theme=tokyo-night&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ceesiyman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=false" alt="ceesiyman GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ceesiyman&theme=tokyonight" alt="ceesiyman GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceesiyman&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🌍 Contribution Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,react,nextjs,js,ts,html,css,bootstrap,mysql,firebase,java" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceesiyman&theme=tokyo-night&area=true&hide_border=true" alt="Ashraf's Activity Graph" />
 </p>
 
 ---
 
-### 📫 Reach Me
+### 🔗 Connect with Me
 
 <p align="center">
-  <a href="mailto:ashrafbakariissa@gmail.com">📧 Email</a> |
-  <a href="https://www.linkedin.com/in/ashrafissa" target="_blank">LinkedIn</a> |
-  <a href="https://x.com/iyman_ashraf" target="_blank">Twitter</a>
+  <a href="https://www.linkedin.com/in/ashrafissa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/iyman_ashraf" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter Badge"/>
+  </a>
 </p>
