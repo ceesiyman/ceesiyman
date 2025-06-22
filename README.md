@@ -10,8 +10,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Ocean**, a complete e-business platform  
-- 🌱 Currently learning **AI Integration in Mobile Apps**  
+
 - 💬 Ask me about: `Flutter`, `Laravel`, `React`, `Next.js`, `API Security`  
 - 📫 Reach me at: [ashrafbakariissa@gmail.com](mailto:ashrafbakariissa@gmail.com)
 
